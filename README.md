@@ -1,4 +1,4 @@
-## SDSS Computing Studies Python Assignment
+ ## SDSS Computing Studies Python Assignment
 ### Assignment #002b Variable Operations with Strings (Total Marks 8)
 
 Objectives:
